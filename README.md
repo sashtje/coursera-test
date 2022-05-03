@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test repository
+# :framed_picture: coursera-test
+Photo hosting for small projects
